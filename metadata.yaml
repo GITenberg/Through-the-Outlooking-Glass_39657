@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8616
     wikipedia: http://en.wikipedia.org/wiki/Simeon_Strunsky
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39657#Through-the-Outlooking-Glass
 gutenberg_issued: '2012-05-08'
 gutenberg_type: Text
 identifiers:
